@@ -1,0 +1,13 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+
+#check-number{
+    border-radius: 0.5rem;
+    padding: 1 rem;
+    cursor: pointer;
+    background-color: transparent;
+    border-color: antiquewhite;
+}
+
